@@ -51,3 +51,4 @@ app.*.map.json
 /ios/Runner.xcworkspace/xcshareddata/
 /ios/Runner.xcworkspace/xcuserdata/
 /ios/.symlinks/
+ios/Runner.xcworkspace/contents.xcworkspacedata
